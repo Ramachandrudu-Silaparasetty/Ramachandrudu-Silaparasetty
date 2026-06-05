@@ -11,7 +11,7 @@ and business intelligence across Supply Chain and Fintech domains.
 
 ### 💼 Experience
 - 🏦 **Revolut** — Transaction Operations & Support
-- 📦 **Amazon** — Supply Chain Operations Analytics (3 yrs)
+- 📦 **Amazon** — Supply Chain Operations Analytics (2 year 10 months)
 
 ### 📂 Featured Project
 | Project | Tools | Description |
